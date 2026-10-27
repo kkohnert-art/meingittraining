@@ -1,3 +1,3 @@
 # meingittraining
 
-# Hier ist eine Änderung.
+## Hier ist eine Änderung.
